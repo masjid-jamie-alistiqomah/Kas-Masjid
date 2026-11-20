@@ -480,156 +480,173 @@
     </div>
 </div>
 
-<!-- Tempat Penampung Data Lokal (Kompatibel Buka Langsung di Folder & GitHub Pages) -->
-<script>
-    window.DAFTAR_LEMBAR = [];
-    window.DATA_KAS = {};
-</script>
-<script src="daftar.js"></script>
-<script>
-    // Muat semua file script lembar yang terdaftar di daftar.js secara dinamis
-    if (window.DAFTAR_LEMBAR && window.DAFTAR_LEMBAR.length > 0) {
-        window.DAFTAR_LEMBAR.forEach(function(item) {
-            document.write('<script src="' + item.file + '"><\/script>');
-        });
-    }
-</script>
+    <!-- Tempat Penampung Data JSON (GitHub Pages) -->
+    <script>
+        window.DAFTAR_LEMBAR = [];
+        window.DATA_KAS = {};
 
-<script>
-    let dataAktif = null;
+        async function muatDataJSON() {
+            try {
+                const resDaftar = await fetch('daftar.json');
+                if (!resDaftar.ok) throw new Error('Gagal memuat daftar.json');
+                const daftar = await resDaftar.json();
 
-    function formatAngka(num) {
-        if (!num || num === 0) return "";
-        return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
-    }
+                window.DAFTAR_LEMBAR = daftar.map((item, idx) => ({
+                    id: item.id || item.file || ('lembar-' + (idx + 1)),
+                    judul: item.judul,
+                    file: item.file
+                }));
 
-    function formatRupiah(num) {
-        return "Rp " + (num || 0).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
-    }
+                for (const item of window.DAFTAR_LEMBAR) {
+                    const resLembar = await fetch(item.file);
+                    if (resLembar.ok) {
+                        const dataLembar = await resLembar.json();
+                        if (!dataLembar.id) dataLembar.id = item.id;
+                        window.DATA_KAS[item.id] = dataLembar;
+                    }
+                }
+            } catch (err) {
+                console.error("Error memuat JSON:", err);
+            }
+            inisialisasi();
+        }
+    </script>
 
-    function inisialisasi() {
-        const select = document.getElementById("pilihLembar");
-        const tbody = document.getElementById("isiTabel");
+    <script>
+        let dataAktif = null;
 
-        if (!window.DAFTAR_LEMBAR || window.DAFTAR_LEMBAR.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="6" class="text-center" style="color:#b91c1c; padding:20px;">File <b>daftar.js</b> tidak ditemukan di folder yang sama. Pastikan file index.html, daftar.js, dan lembar-1.js berada dalam satu folder.</td></tr>';
-            return;
+        function formatAngka(num) {
+            if (!num || num === 0) return "";
+            return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
         }
 
-        select.innerHTML = "";
-        window.DAFTAR_LEMBAR.forEach((item, index) => {
-            const opt = document.createElement("option");
-            opt.value = item.id;
-            opt.textContent = item.judul;
-            select.appendChild(opt);
-        });
-
-        // Pilih lembar paling akhir (terbaru) secara default
-        select.selectedIndex = window.DAFTAR_LEMBAR.length - 1;
-        gantiLembar();
-    }
-
-    function gantiLembar() {
-        const id = document.getElementById("pilihLembar").value;
-        const lembar = window.DATA_KAS[id];
-        const tbody = document.getElementById("isiTabel");
-
-        if (!lembar) {
-            tbody.innerHTML = '<tr><td colspan="6" class="text-center" style="color:#b91c1c; padding:20px;">Data untuk lembar ini belum dimuat. Periksa file skrip lembar terkait.</td></tr>';
-            return;
+        function formatRupiah(num) {
+            return "Rp " + (num || 0).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
         }
 
-        dataAktif = lembar;
-        document.getElementById("judulPeriode").textContent = "Rincian Transaksi — " + lembar.periode;
-        document.getElementById("cariInput").value = "";
+        function inisialisasi() {
+            const select = document.getElementById("pilihLembar");
+            const tbody = document.getElementById("isiTabel");
 
-        renderTabel(lembar);
-    }
+            if (!window.DAFTAR_LEMBAR || window.DAFTAR_LEMBAR.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="6" class="text-center" style="color:#b91c1c; padding:20px;">File <b>daftar.json</b> tidak ditemukan atau gagal dimuat.</td></tr>';
+                return;
+            }
 
-    function renderTabel(lembar) {
-        const tbody = document.getElementById("isiTabel");
-        tbody.innerHTML = "";
+            select.innerHTML = "";
+            window.DAFTAR_LEMBAR.forEach((item, index) => {
+                const opt = document.createElement("option");
+                opt.value = item.id;
+                opt.textContent = item.judul;
+                select.appendChild(opt);
+            });
 
-        let saldoBerjalan = lembar.saldo_awal || 0;
-        let totalMasuk = 0;
-        let totalKeluar = 0;
+            // Pilih lembar paling akhir (terbaru) secara default
+            select.selectedIndex = window.DAFTAR_LEMBAR.length - 1;
+            gantiLembar();
+        }
 
-        lembar.transaksi.forEach((row) => {
-            const masuk = Number(row.masuk) || 0;
-            const keluar = Number(row.keluar) || 0;
-            saldoBerjalan = saldoBerjalan + masuk - keluar;
-            totalMasuk += masuk;
-            totalKeluar += keluar;
+        function gantiLembar() {
+            const id = document.getElementById("pilihLembar").value;
+            const lembar = window.DATA_KAS[id];
+            const tbody = document.getElementById("isiTabel");
 
-            const tr = document.createElement("tr");
-            tr.innerHTML = `
-                <td class="text-center">${row.no || ""}</td>
-                <td class="text-center">${row.tanggal || ""}</td>
-                <td>${row.uraian || ""}</td>
-                <td class="text-right text-masuk">${formatAngka(masuk)}</td>
-                <td class="text-right text-keluar">${formatAngka(keluar)}</td>
-                <td class="text-right text-sisa">${formatAngka(saldoBerjalan)}</td>
-            `;
-            tbody.appendChild(tr);
-        });
+            if (!lembar) {
+                tbody.innerHTML = '<tr><td colspan="6" class="text-center" style="color:#b91c1c; padding:20px;">Data untuk lembar ini belum dimuat. Periksa file lembar terkait.</td></tr>';
+                return;
+            }
 
-        document.getElementById("valSaldoAwal").textContent = formatRupiah(lembar.saldo_awal || 0);
-        document.getElementById("valTotalMasuk").textContent = formatRupiah(totalMasuk);
-        document.getElementById("valTotalKeluar").textContent = formatRupiah(totalKeluar);
-        document.getElementById("valSaldoAkhir").textContent = formatRupiah(saldoBerjalan);
+            dataAktif = lembar;
+            document.getElementById("judulPeriode").textContent = "Rincian Transaksi — " + lembar.periode;
+            document.getElementById("cariInput").value = "";
 
-        document.getElementById("footMasuk").textContent = formatAngka(totalMasuk) || "0";
-        document.getElementById("footKeluar").textContent = formatAngka(totalKeluar) || "0";
-        document.getElementById("footSisa").textContent = formatAngka(saldoBerjalan) || "0";
-    }
+            renderTabel(lembar);
+        }
 
-    function filterTabel() {
-        const keyword = document.getElementById("cariInput").value.toLowerCase();
-        const rows = document.querySelectorAll("#isiTabel tr");
-        rows.forEach((tr) => {
-            const text = tr.textContent.toLowerCase();
-            tr.style.display = text.includes(keyword) ? "" : "none";
-        });
-    }
+        function renderTabel(lembar) {
+            const tbody = document.getElementById("isiTabel");
+            tbody.innerHTML = "";
 
-    function downloadCSV() {
-        if (!dataAktif) return;
+            let saldoBerjalan = lembar.saldo_awal || 0;
+            let totalMasuk = 0;
+            let totalKeluar = 0;
 
-        let csv = [];
-        csv.push('"LAPORAN KAS JUMAT - DKM MASJID JAMIE AL-ISTIQOMAH"');
-        csv.push('"Kp. Karangiyuh, Jl. Cisurian-Cihateup, Desa Rajamandala, Rajapolah, Tasikmalaya"');
-        csv.push('"Periode: ' + dataAktif.periode + '"');
-        csv.push('"Saldo Awal: ' + (dataAktif.saldo_awal || 0) + '"');
-        csv.push('');
-        csv.push('"NO","TGL-BLN-THN","URAIAN","MASUK","KELUAR","SISA SALDO"');
+            lembar.transaksi.forEach((row) => {
+                const masuk = Number(row.masuk) || 0;
+                const keluar = Number(row.keluar) || 0;
+                saldoBerjalan = saldoBerjalan + masuk - keluar;
+                totalMasuk += masuk;
+                totalKeluar += keluar;
 
-        let saldo = dataAktif.saldo_awal || 0;
-        let totMasuk = 0;
-        let totKeluar = 0;
+                const tr = document.createElement("tr");
+                tr.innerHTML = `
+                    <td class="text-center">${row.no || ""}</td>
+                    <td class="text-center">${row.tanggal || ""}</td>
+                    <td>${row.uraian || ""}</td>
+                    <td class="text-right text-masuk">${formatAngka(masuk)}</td>
+                    <td class="text-right text-keluar">${formatAngka(keluar)}</td>
+                    <td class="text-right text-sisa">${formatAngka(saldoBerjalan)}</td>
+                `;
+                tbody.appendChild(tr);
+            });
 
-        dataAktif.transaksi.forEach((r) => {
-            const m = Number(r.masuk) || 0;
-            const k = Number(r.keluar) || 0;
-            saldo = saldo + m - k;
-            totMasuk += m;
-            totKeluar += k;
-            csv.push(`"${r.no || ""}","${r.tanggal || ""}","${r.uraian || ""}",${m},${k},${saldo}`);
-        });
+            document.getElementById("valSaldoAwal").textContent = formatRupiah(lembar.saldo_awal || 0);
+            document.getElementById("valTotalMasuk").textContent = formatRupiah(totalMasuk);
+            document.getElementById("valTotalKeluar").textContent = formatRupiah(totalKeluar);
+            document.getElementById("valSaldoAkhir").textContent = formatRupiah(saldoBerjalan);
 
-        csv.push(`"","","TOTAL",${totMasuk},${totKeluar},${saldo}`);
+            document.getElementById("footMasuk").textContent = formatAngka(totalMasuk) || "0";
+            document.getElementById("footKeluar").textContent = formatAngka(totalKeluar) || "0";
+            document.getElementById("footSisa").textContent = formatAngka(saldoBerjalan) || "0";
+        }
 
-        const blob = new Blob([csv.join("\n")], { type: "text/csv;charset=utf-8;" });
-        const link = document.createElement("a");
-        const url = URL.createObjectURL(blob);
-        link.setAttribute("href", url);
-        link.setAttribute("download", "Kas_Jumat_Al_Istiqomah_" + dataAktif.id + ".csv");
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-    }
+        function filterTabel() {
+            const keyword = document.getElementById("cariInput").value.toLowerCase();
+            const rows = document.querySelectorAll("#isiTabel tr");
+            rows.forEach((tr) => {
+                const text = tr.textContent.toLowerCase();
+                tr.style.display = text.includes(keyword) ? "" : "none";
+            });
+        }
 
-    window.onload = inisialisasi;
-</script>
+        function downloadCSV() {
+            if (!dataAktif) return;
+
+            let csv = [];
+            csv.push('"LAPORAN KAS JUMAT - DKM MASJID JAMIE AL-ISTIQOMAH"');
+            csv.push('"Kp. Karangiyuh, Jl. Cisurian-Cihateup, Desa Rajamandala, Rajapolah, Tasikmalaya"');
+            csv.push('"Periode: ' + dataAktif.periode + '"');
+            csv.push('"Saldo Awal: ' + (dataAktif.saldo_awal || 0) + '"');
+            csv.push('');
+            csv.push('"NO","TGL-BLN-THN","URAIAN","MASUK","KELUAR","SISA SALDO"');
+
+            let saldo = dataAktif.saldo_awal || 0;
+            let totMasuk = 0;
+            let totKeluar = 0;
+
+            dataAktif.transaksi.forEach((r) => {
+                const m = Number(r.masuk) || 0;
+                const k = Number(r.keluar) || 0;
+                saldo = saldo + m - k;
+                totMasuk += m;
+                totKeluar += k;
+                csv.push(`"${r.no || ""}","${r.tanggal || ""}","${r.uraian || ""}",${m},${k},${saldo}`);
+            });
+
+            csv.push(`"","","TOTAL",${totMasuk},${totKeluar},${saldo}`);
+
+            const blob = new Blob([csv.join("\n")], { type: "text/csv;charset=utf-8;" });
+            const link = document.createElement("a");
+            const url = URL.createObjectURL(blob);
+            link.setAttribute("href", url);
+            link.setAttribute("download", "Kas_Jumat_Al_Istiqomah_" + dataAktif.id + ".csv");
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        window.onload = muatDataJSON;
+    </script>
 
 </body>
 </html>
