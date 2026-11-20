@@ -1,7 +1,6 @@
 {
   "periode": "Lembar 1 (29 Maret – 09 Juli 2024)",
   "saldo_awal": 0,
-  "keterangan": "SELAMA 3 BULAN (IQBAL + TAMAM + ATIF) -> BUKA",
   "transaksi": [
     {
       "no": "1.",
@@ -246,7 +245,7 @@
     {
       "no": "31.",
       "tanggal": "09-07-2024",
-      "uraian": "PETUGAS KEBERSIHAN",
+      "uraian": "PETUGAS KEBERSIHAN SELAMA 3 BULAN (IQBAL + TAMAM + ATIF) -> BUKA",
       "masuk": 0,
       "keluar": 100000,
       "sisa": 1300000
