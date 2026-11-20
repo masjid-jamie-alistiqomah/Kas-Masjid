@@ -1,0 +1,263 @@
+{
+  "periode": "Lembar 2 (09 Juli – 23 Agustus 2024)",
+  "saldo_awal": 1300000,
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "09-07-2024",
+      "uraian": "SISA YANG LALU",
+      "masuk": 0,
+      "keluar": 0,
+      "sisa": 1300000
+    },
+    {
+      "no": "2.",
+      "tanggal": "12-07-2024",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 30000,
+      "sisa": 1270000
+    },
+    {
+      "no": "3.",
+      "tanggal": "12-07-2024",
+      "uraian": "Beli pel 2",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1230000
+    },
+    {
+      "no": "4.",
+      "tanggal": "12-07-2024",
+      "uraian": "Sikat panjang 1",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 1210000
+    },
+    {
+      "no": "5.",
+      "tanggal": "12-07-2024",
+      "uraian": "Amplop 1 pack + di print",
+      "masuk": 0,
+      "keluar": 45000,
+      "sisa": 1165000
+    },
+    {
+      "no": "6.",
+      "tanggal": "12-07-2024",
+      "uraian": "1 kesed kecil",
+      "masuk": 0,
+      "keluar": 26000,
+      "sisa": 1139000
+    },
+    {
+      "no": "7.",
+      "tanggal": "19-07-2024",
+      "uraian": "KHATIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1099000
+    },
+    {
+      "no": "8.",
+      "tanggal": "21-07-2024",
+      "uraian": "Saklar Lampu (Broco)",
+      "masuk": 0,
+      "keluar": 15000,
+      "sisa": 1084000
+    },
+    {
+      "no": "9.",
+      "tanggal": "21-07-2024",
+      "uraian": "Alat Pembersih kaca 2",
+      "masuk": 0,
+      "keluar": 22000,
+      "sisa": 1062000
+    },
+    {
+      "no": "10.",
+      "tanggal": "26-07-2024",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1022000
+    },
+    {
+      "no": "11.",
+      "tanggal": "28-07-2024",
+      "uraian": "Agustusan IMKA",
+      "masuk": 0,
+      "keluar": 100000,
+      "sisa": 922000
+    },
+    {
+      "no": "12.",
+      "tanggal": "28-07-2024",
+      "uraian": "KAS JUM'ATAN",
+      "masuk": 716500,
+      "keluar": 0,
+      "sisa": 1638500
+    },
+    {
+      "no": "13.",
+      "tanggal": "28-07-2024",
+      "uraian": "PETUGAS KEBERSIHAN",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 1558500
+    },
+    {
+      "no": "14.",
+      "tanggal": "30-07-2024",
+      "uraian": "Alat kebersihan + Cat falcon",
+      "masuk": 0,
+      "keluar": 230000,
+      "sisa": 1328500
+    },
+    {
+      "no": "15.",
+      "tanggal": "01-08-2024",
+      "uraian": "1 GALON CAT 5 KG",
+      "masuk": 0,
+      "keluar": 70000,
+      "sisa": 1258500
+    },
+    {
+      "no": "16.",
+      "tanggal": "01-08-2024",
+      "uraian": "4 pcs susu + 1 pcs kopi",
+      "masuk": 0,
+      "keluar": 10000,
+      "sisa": 1248500
+    },
+    {
+      "no": "17.",
+      "tanggal": "02-08-2024",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1208500
+    },
+    {
+      "no": "18.",
+      "tanggal": "03-08-2024",
+      "uraian": "Router WiFi",
+      "masuk": 0,
+      "keluar": 175000,
+      "sisa": 1033500
+    },
+    {
+      "no": "19.",
+      "tanggal": "03-08-2024",
+      "uraian": "CCTV",
+      "masuk": 0,
+      "keluar": 195000,
+      "sisa": 838500
+    },
+    {
+      "no": "20.",
+      "tanggal": "04-08-2024",
+      "uraian": "Instalasi WiFi",
+      "masuk": 0,
+      "keluar": 100000,
+      "sisa": 738500
+    },
+    {
+      "no": "21.",
+      "tanggal": "06-08-2024",
+      "uraian": "Ngolinkeun WiFi (Konsumsi)",
+      "masuk": 0,
+      "keluar": 22000,
+      "sisa": 716500
+    },
+    {
+      "no": "22.",
+      "tanggal": "06-08-2024",
+      "uraian": "Solasiban hideng (2 bus)",
+      "masuk": 0,
+      "keluar": 3000,
+      "sisa": 713500
+    },
+    {
+      "no": "23.",
+      "tanggal": "09-08-2024",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 673500
+    },
+    {
+      "no": "24.",
+      "tanggal": "13-08-2024",
+      "uraian": "KAS JUM'ATAN",
+      "masuk": 347500,
+      "keluar": 0,
+      "sisa": 1021000
+    },
+    {
+      "no": "25.",
+      "tanggal": "13-08-2024",
+      "uraian": "2 CCTV DLL",
+      "masuk": 0,
+      "keluar": 457500,
+      "sisa": 563500
+    },
+    {
+      "no": "26.",
+      "tanggal": "13-08-2024",
+      "uraian": "INSENTIF PETUGAS KEBERSIHAN 2 ORANG",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 483500
+    },
+    {
+      "no": "27.",
+      "tanggal": "16-08-2024",
+      "uraian": "KATIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 443500
+    },
+    {
+      "no": "28.",
+      "tanggal": "16-08-2024",
+      "uraian": "PETUGAS KEBERSIHAN 2 ORANG",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 403500
+    },
+    {
+      "no": "29.",
+      "tanggal": "23-08-2024",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 363500
+    },
+    {
+      "no": "30.",
+      "tanggal": "23-08-2024",
+      "uraian": "PETUGAS KEBERSIHAN 2 ORANG",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 323500
+    },
+    {
+      "no": "31.",
+      "tanggal": "23-08-2024",
+      "uraian": "KAS JUM'ATAN",
+      "masuk": 377600,
+      "keluar": 0,
+      "sisa": 701100
+    },
+    {
+      "no": "32.",
+      "tanggal": "23-08-2024",
+      "uraian": "CET BIRU + KOAS",
+      "masuk": 0,
+      "keluar": 59000,
+      "sisa": 642100
+    }
+  ],
+  "keterangan": "-> BUKA"
+}

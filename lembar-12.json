@@ -1,0 +1,318 @@
+{
+  "periode": "Lembar 12 (01 Mei – 31 Juli 2026)",
+  "saldo_awal": 1878000,
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "01-05-2026",
+      "uraian": "Petugas Kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1838000
+    },
+    {
+      "no": "2.",
+      "tanggal": "07-05-2026",
+      "uraian": "Kas JUM'AT",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 2338000
+    },
+    {
+      "no": "3.",
+      "tanggal": "08-05-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2298000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2258000
+    },
+    {
+      "no": "4.",
+      "tanggal": "15-05-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2218000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2178000
+    },
+    {
+      "no": "5.",
+      "tanggal": "22-05-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2138000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 2118000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Galon",
+      "masuk": 0,
+      "keluar": 6000,
+      "sisa": 2112000
+    },
+    {
+      "no": "6.",
+      "tanggal": "26-05-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2072000
+    },
+    {
+      "no": "7.",
+      "tanggal": "29-05-2026",
+      "uraian": "Kas jum'at",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 2572000
+    },
+    {
+      "no": "8.",
+      "tanggal": "29-05-2026",
+      "uraian": "KOTAK AMAL IDUL ADHA",
+      "masuk": 770000,
+      "keluar": 0,
+      "sisa": 3342000
+    },
+    {
+      "no": "9.",
+      "tanggal": "27-05-2026",
+      "uraian": "IDUL ADHA",
+      "masuk": 0,
+      "keluar": 200000,
+      "sisa": 3142000
+    },
+    {
+      "no": "10.",
+      "tanggal": "29-05-2026",
+      "uraian": "KHOTIB JUM'AT",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3102000
+    },
+    {
+      "no": "11.",
+      "tanggal": "05-06-2026",
+      "uraian": "KHOTIB JUM'AT",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3062000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3022000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 25000,
+      "sisa": 2997000
+    },
+    {
+      "no": "12.",
+      "tanggal": "12-06-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2957000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2917000
+    },
+    {
+      "no": "13.",
+      "tanggal": "19-06-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2877000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2837000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Pulsa Listrik bawah",
+      "masuk": 0,
+      "keluar": 54000,
+      "sisa": 2783000
+    },
+    {
+      "no": "14.",
+      "tanggal": "25-06-2026",
+      "uraian": "SANTUNAN YATIM",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2733000
+    },
+    {
+      "no": "15.",
+      "tanggal": "25-06-2026",
+      "uraian": "Kas jum'at",
+      "masuk": 540000,
+      "keluar": 0,
+      "sisa": 3273000
+    },
+    {
+      "no": "16.",
+      "tanggal": "26-06-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3233000
+    },
+    {
+      "no": "17.",
+      "tanggal": "26-06-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3193000
+    },
+    {
+      "no": "18.",
+      "tanggal": "03-07-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3153000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3113000
+    },
+    {
+      "no": "19.",
+      "tanggal": "05-07-2026",
+      "uraian": "Lampu 2 15+20 w",
+      "masuk": 0,
+      "keluar": 32000,
+      "sisa": 3081000
+    },
+    {
+      "no": "20.",
+      "tanggal": "10-07-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3041000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3001000
+    },
+    {
+      "no": "21.",
+      "tanggal": "17-07-2026",
+      "uraian": "KHOTIB",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2961000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2921000
+    },
+    {
+      "no": "22.",
+      "tanggal": "22-07-2026",
+      "uraian": "Kas JUM'AT",
+      "masuk": 450000,
+      "keluar": 0,
+      "sisa": 3371000
+    },
+    {
+      "no": "23.",
+      "tanggal": "22-07-2026",
+      "uraian": "Pulsa Listrik",
+      "masuk": 0,
+      "keluar": 106000,
+      "sisa": 3265000
+    },
+    {
+      "no": "24.",
+      "tanggal": "24-07-2026",
+      "uraian": "KHOTIB JUM'AT",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3225000
+    },
+    {
+      "no": "",
+      "tanggal": "24-07-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3185000
+    },
+    {
+      "no": "25.",
+      "tanggal": "31-07-2026",
+      "uraian": "KHOTIB JUM'AT",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3145000
+    },
+    {
+      "no": "26.",
+      "tanggal": "31-07-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3105000
+    }
+  ]
+}
