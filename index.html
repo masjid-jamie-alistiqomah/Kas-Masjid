@@ -638,7 +638,7 @@
 
         async function muatDataJSON() {
             try {
-                const resDaftar = await fetch('daftar.json');
+                const resDaftar = await fetch('data-kas/daftar.json');
                 if (!resDaftar.ok) throw new Error('Gagal memuat daftar.json');
                 const daftar = await resDaftar.json();
 
@@ -649,7 +649,7 @@
                 }));
 
                 for (const item of window.DAFTAR_LEMBAR) {
-                    const resLembar = await fetch(item.file);
+                    const resLembar = await fetch('data-kas/' + item.file);
                     if (resLembar.ok) {
                         const dataLembar = await resLembar.json();
                         if (!dataLembar.id) dataLembar.id = item.id;
