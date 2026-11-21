@@ -764,6 +764,7 @@
             if (!dataAktif) return;
 
             let csv = [];
+            csv.push('sep=,');
             csv.push('"LAPORAN KAS JUMAT - DKM MASJID JAMIE AL-ISTIQOMAH"');
             csv.push('"Kp. Karangiyuh, Jl. Cisurian-Cihateup, Desa Rajamandala, Rajapolah, Tasikmalaya"');
             csv.push('"Periode: ' + dataAktif.periode + '"');
