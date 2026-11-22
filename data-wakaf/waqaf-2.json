@@ -1,0 +1,175 @@
+{
+  "periode": "Lembar 2 (14 April – 21 November 2026)",
+  "saldo_awal": 611000,
+  "keterangan": "DATA KEUANGAN WAKAF MASJID JAMIE AL-ISTIQOMAH (SISA YANG LALU: 611.000)",
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "14-04-2026",
+      "uraian": "WAKAF BP SUHERMAN",
+      "masuk": 168000,
+      "keluar": 0,
+      "sisa": 779000
+    },
+    {
+      "no": "2.",
+      "tanggal": "17-04-2026",
+      "uraian": "WAKAF BP H.MAUSUL",
+      "masuk": 184000,
+      "keluar": 0,
+      "sisa": 963000
+    },
+    {
+      "no": "3.",
+      "tanggal": "02-05-2026",
+      "uraian": "WAKAF HJ.TOTO",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 1463000
+    },
+    {
+      "no": "4.",
+      "tanggal": "09-05-2026",
+      "uraian": "WAKAF MA EMPAT",
+      "masuk": 200000,
+      "keluar": 0,
+      "sisa": 1663000
+    },
+    {
+      "no": "5.",
+      "tanggal": "09-05-2026",
+      "uraian": "WAKAF BP WINARJA",
+      "masuk": 227000,
+      "keluar": 0,
+      "sisa": 1890000
+    },
+    {
+      "no": "6.",
+      "tanggal": "09-05-2026",
+      "uraian": "WAKAF MA UKA/3 USUM",
+      "masuk": 747000,
+      "keluar": 0,
+      "sisa": 2637000
+    },
+    {
+      "no": "7.",
+      "tanggal": "25-05-2026",
+      "uraian": "INSENTIF IMAM /PENGURUS MASJID 4 ORANG",
+      "masuk": 0,
+      "keluar": 400000,
+      "sisa": 2237000
+    },
+    {
+      "no": "8.",
+      "tanggal": "30-05-2026",
+      "uraian": "WAKAF BP.H ABBAS+HJ CIOH",
+      "masuk": 400000,
+      "keluar": 0,
+      "sisa": 2637000
+    },
+    {
+      "no": "9.",
+      "tanggal": "27-07-2026",
+      "uraian": "WAKAF H. ILI (CISURIAN)",
+      "masuk": 320000,
+      "keluar": 0,
+      "sisa": 2957000
+    },
+    {
+      "no": "10.",
+      "tanggal": "27-07-2026",
+      "uraian": "WAKAF BP.SUHERMAN",
+      "masuk": 238000,
+      "keluar": 0,
+      "sisa": 3195000
+    },
+    {
+      "no": "11.",
+      "tanggal": "11-08-2026",
+      "uraian": "WAKAF BP. SOLIHIN",
+      "masuk": 289000,
+      "keluar": 0,
+      "sisa": 3484000
+    },
+    {
+      "no": "12.",
+      "tanggal": "24-08-2026",
+      "uraian": "2 BUAH LAMPU 21 WHAT",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 3404000
+    },
+    {
+      "no": "13.",
+      "tanggal": "24-08-2026",
+      "uraian": "2 BUAH ISI ULANG STELA",
+      "masuk": 0,
+      "keluar": 68000,
+      "sisa": 3336000
+    },
+    {
+      "no": "14.",
+      "tanggal": "18-09-2026",
+      "uraian": "TOKEN LISTRIK BAWAH",
+      "masuk": 0,
+      "keluar": 105000,
+      "sisa": 3231000
+    },
+    {
+      "no": "15.",
+      "tanggal": "25-09-2026",
+      "uraian": "WAKAF H. ABBAS (LEGOK)",
+      "masuk": 400000,
+      "keluar": 0,
+      "sisa": 3631000
+    },
+    {
+      "no": "16.",
+      "tanggal": "28-09-2026",
+      "uraian": "INSENTIF MUROKI, MUADZIN, PETUGAS KENCLENG JUM'AT",
+      "masuk": 0,
+      "keluar": 300000,
+      "sisa": 3331000
+    },
+    {
+      "no": "17.",
+      "tanggal": "11-10-2026",
+      "uraian": "PARFUM KARPET",
+      "masuk": 0,
+      "keluar": 48000,
+      "sisa": 3283000
+    },
+    {
+      "no": "18.",
+      "tanggal": "13-10-2026",
+      "uraian": "BANTAL KURSI KHOTIB",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 3203000
+    },
+    {
+      "no": "19.",
+      "tanggal": "29-10-2026",
+      "uraian": "3 BUAH LAMPU 18 WHAT",
+      "masuk": 0,
+      "keluar": 110000,
+      "sisa": 3093000
+    },
+    {
+      "no": "20.",
+      "tanggal": "30-10-2026",
+      "uraian": "1 BUAH KALENDER",
+      "masuk": 0,
+      "keluar": 22000,
+      "sisa": 3071000
+    },
+    {
+      "no": "21.",
+      "tanggal": "21-11-2026",
+      "uraian": "4 HORDENG MASJID",
+      "masuk": 0,
+      "keluar": 168000,
+      "sisa": 2903000
+    }
+  ]
+}
