@@ -2,12 +2,11 @@
   "judul": "DATA KEUANGAN WAKAF MASJID JAMIE AL-ISTIQOMAH",
   "periode": "18 April 2024 – 06 April 2026",
   "saldo_awal": 0,
-  "keterangan": "KET: NO 1 = HASIL WAKAF DARI SUKARINDIK (BP. H. ILI ROMLI)",
   "transaksi": [
     {
       "no": "1.",
       "tanggal": "18-04-2024",
-      "uraian": "Seuk ti A. Nanang 3 kg",
+      "uraian": "Seuk ti A. Nanang 3 kg HASIL WAKAF DARI SUKARINDIK (BP. H. ILI ROMLI)",
       "masuk": 40000,
       "keluar": 0,
       "sisa": 40000
