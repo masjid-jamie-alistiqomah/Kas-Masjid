@@ -12,7 +12,7 @@ Selamat datang di portal resmi **Sistem Informasi Keuangan dan Aset Wakaf** **Ma
 
 ---
 
-## 📜 Daftar Aset Tanah Wakaf Masjid & Madrasah
+## 📜 Daftar Aset Tanah Wakaf Masjid 
 Berikut adalah rekapitulasi data tanah wakaf yang dikelola dan tercatat secara resmi oleh DKM Masjid Jamie Al-Istiqomah:
 
 | No | Nama Wakif (Pemberi Wakaf) | Luas Tanah | Lokasi Aset |
