@@ -1,0 +1,55 @@
+{
+  "periode": "09 Mei 2024 – 01 November 2026",
+  "saldo_awal": 0,
+  "keterangan": "CATATAN KEMATIAN",
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "09-05-2024",
+      "uraian": "kematian Bp. Yoyo.",
+      "masuk": 300000,
+      "keluar": 0,
+      "sisa": 300000
+    },
+    {
+      "no": "2.",
+      "tanggal": "08-08-2024",
+      "uraian": "BP ASEP OPAK",
+      "masuk": 200000,
+      "keluar": 0,
+      "sisa": 500000
+    },
+    {
+      "no": "3.",
+      "tanggal": "08-08-2024",
+      "uraian": "50 METR KAIN BOEH + 2 KAMPER",
+      "masuk": 0,
+      "keluar": 455000,
+      "sisa": 45000
+    },
+    {
+      "no": "4.",
+      "tanggal": "08-08-2024",
+      "uraian": "4 BUNGKUS KAMPER",
+      "masuk": 0,
+      "keluar": 10000,
+      "sisa": 35000
+    },
+    {
+      "no": "5.",
+      "tanggal": "17-09-2025",
+      "uraian": "BP. SOMA",
+      "masuk": 300000,
+      "keluar": 0,
+      "sisa": 335000
+    },
+    {
+      "no": "6.",
+      "tanggal": "01-11-2026",
+      "uraian": "KAOS TANGAN + MASKER",
+      "masuk": 0,
+      "keluar": 56000,
+      "sisa": 279000
+    }
+  ]
+}
