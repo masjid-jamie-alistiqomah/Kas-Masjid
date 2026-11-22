@@ -1,0 +1,63 @@
+{
+  "periode": "Lembar 4 (28-09-2026 – 21-11-26)",
+  "saldo_awal": 3631000,
+  "keterangan": "DATA KEUANGAN WAKAF MASJID JAMIE AL-ISTIQOMAH",
+  "transaksi": [
+    {
+      "no": "",
+      "tanggal": "28-09-2026",
+      "uraian": "SISA YANG LALU",
+      "masuk": 0,
+      "keluar": 0,
+      "sisa": 3631000
+    },
+    {
+      "no": "16.",
+      "tanggal": "28-09-2026",
+      "uraian": "INSENTIF MUROKI, MUADZIN, PETUGAS KENCLENG JUM'AT",
+      "masuk": 0,
+      "keluar": 300000,
+      "sisa": 3331000
+    },
+    {
+      "no": "17.",
+      "tanggal": "11-10-2026",
+      "uraian": "PARFUM KARPET",
+      "masuk": 0,
+      "keluar": 48000,
+      "sisa": 3283000
+    },
+    {
+      "no": "18.",
+      "tanggal": "13-10-2026",
+      "uraian": "BANTAL KURSI KHOTIB",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 3203000
+    },
+    {
+      "no": "19.",
+      "tanggal": "29-10-2026",
+      "uraian": "3 BUAH LAMPU 18 WHAT",
+      "masuk": 0,
+      "keluar": 110000,
+      "sisa": 3093000
+    },
+    {
+      "no": "20.",
+      "tanggal": "31-10-2026",
+      "uraian": "1. BUAH KALENDER",
+      "masuk": 0,
+      "keluar": 22000,
+      "sisa": 3071000
+    },
+    {
+      "no": "21.",
+      "tanggal": "21-11-26",
+      "uraian": "4 HORDENG MASJID",
+      "masuk": 0,
+      "keluar": 168000,
+      "sisa": 2903000
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "periode": "Lembar 3 (18/03/26 – 25-09-2026)",
+  "saldo_awal": 313500,
+  "keterangan": "DATA KEUANGAN WAKAF MASJID JAMIE AL-ISTIQOMAH",
+  "transaksi": [
+    {
+      "no": "",
+      "tanggal": "18/03/26",
+      "uraian": "SISA YANG LALU",
+      "masuk": 0,
+      "keluar": 0,
+      "sisa": 313500
+    },
+    {
+      "no": "34.",
+      "tanggal": "18/03/26",
+      "uraian": "Cat yoko + Cat avian",
+      "masuk": 0,
+      "keluar": 214000,
+      "sisa": 99500
+    },
+    {
+      "no": "35.",
+      "tanggal": "06/04/26",
+      "uraian": "W. bp Solihin <ti mg. epul>",
+      "masuk": 242000,
+      "keluar": 0,
+      "sisa": 351000
+    },
+    {
+      "no": "36.",
+      "tanggal": "06/04/26",
+      "uraian": "W. bp. h. sirod <ti mg enur>",
+      "masuk": 270000,
+      "keluar": 0,
+      "sisa": 621000
+    },
+    {
+      "no": "",
+      "tanggal": "",
+      "uraian": "KET = NO 1 : HASIL WAKAF DARI SUKARINDIK (BP. H. ILI ROMLI)",
+      "masuk": 0,
+      "keluar": 0,
+      "sisa": null
+    },
+    {
+      "no": "1.",
+      "tanggal": "14-04-2026",
+      "uraian": "WAKAF BP SUHERMAN",
+      "masuk": 168000,
+      "keluar": 0,
+      "sisa": 779000
+    },
+    {
+      "no": "2.",
+      "tanggal": "17-04-2026",
+      "uraian": "WAKAF BP H.MAUSUL",
+      "masuk": 184000,
+      "keluar": 0,
+      "sisa": 963000
+    },
+    {
+      "no": "3.",
+      "tanggal": "02-05-2026",
+      "uraian": "WAKAF HJ.TOTO",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 1463000
+    },
+    {
+      "no": "4.",
+      "tanggal": "09-05-2026",
+      "uraian": "WAKAF MA EMPAT",
+      "masuk": 200000,
+      "keluar": 0,
+      "sisa": 1663000
+    },
+    {
+      "no": "5.",
+      "tanggal": "09-05-2026",
+      "uraian": "WAKAF BP WINARJA",
+      "masuk": 227000,
+      "keluar": 0,
+      "sisa": 1890000
+    },
+    {
+      "no": "6.",
+      "tanggal": "09-05-2026",
+      "uraian": "WAKAF MA UKA/3 USUM",
+      "masuk": 747000,
+      "keluar": 0,
+      "sisa": 2637000
+    },
+    {
+      "no": "7.",
+      "tanggal": "25-05-2026",
+      "uraian": "INSENTIF IMAM /PENGURUS MASJID 4 ORANG",
+      "masuk": 0,
+      "keluar": 400000,
+      "sisa": 2237000
+    },
+    {
+      "no": "8.",
+      "tanggal": "30-05-2026",
+      "uraian": "WAKAF BP.H ABBAS+HJ CIOH",
+      "masuk": 400000,
+      "keluar": 0,
+      "sisa": 2637000
+    },
+    {
+      "no": "9.",
+      "tanggal": "27-07-2026",
+      "uraian": "WAKAF H. ILI (CISURIAN)",
+      "masuk": 320000,
+      "keluar": 0,
+      "sisa": 2957000
+    },
+    {
+      "no": "10.",
+      "tanggal": "27-07-2026",
+      "uraian": "WAKAF BP.SUHERMAN",
+      "masuk": 238000,
+      "keluar": 0,
+      "sisa": 3195000
+    },
+    {
+      "no": "11.",
+      "tanggal": "11-08-2026",
+      "uraian": "WAKAF BP. SOLIHIN",
+      "masuk": 289000,
+      "keluar": 0,
+      "sisa": 3484000
+    },
+    {
+      "no": "12.",
+      "tanggal": "24-08-2026",
+      "uraian": "2 BUAH LAMPU 21 WHAT",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 3404000
+    },
+    {
+      "no": "13.",
+      "tanggal": "24-08-2026",
+      "uraian": "2 BUAH ISI ULANG STELA",
+      "masuk": 0,
+      "keluar": 68000,
+      "sisa": 3336000
+    },
+    {
+      "no": "14.",
+      "tanggal": "18-09-2026",
+      "uraian": "TOKEN LISTRIK BAWAH",
+      "masuk": 0,
+      "keluar": 105000,
+      "sisa": 3231000
+    },
+    {
+      "no": "15.",
+      "tanggal": "25-09-2026",
+      "uraian": "WAKAF H. ABBAS (LEGOK)",
+      "masuk": 400000,
+      "keluar": 0,
+      "sisa": 3631000
+    }
+  ]
+}
