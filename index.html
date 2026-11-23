@@ -645,6 +645,7 @@
             .replace(/&/g, "&amp;")
             .replace(/</g, "&lt;")
             .replace(/>/g, "&gt;");
+        html = html.replace(/&lt;img\s+([^&]+?)&gt;/gi, '<img $1>');
 
         // Blok kode
         html = html.replace(/```([\s\S]*?)```/g, '<pre style="background:#f3f4f6;padding:10px;border-radius:6px;overflow-x:auto;margin:10px 0;"><code>$1</code></pre>');
