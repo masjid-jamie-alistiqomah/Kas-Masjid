@@ -15,21 +15,7 @@ Selamat datang di portal resmi **Sistem Informasi Keuangan dan Aset Wakaf** **Ma
 ## 📜 Daftar Aset Tanah Wakaf Masjid 
 Berikut adalah rekapitulasi data tanah wakaf yang dikelola dan tercatat secara resmi oleh DKM Masjid Jamie Al-Istiqomah:
 
-| No | Nama Wakif (Pemberi Wakaf) | Luas Tanah | Lokasi Aset |
-| :---: | :--- | :---: | :--- |
-| **1** | **Bp. Solihin** | 20 Bata | Ciganea |
-| **2** | **Bp. Encon / Ema Uka** | 10 Bata | Sawah Lega |
-| **3** | **Ibu Hj. Komariah / Hj. Toto** | 15 Bata | Rorogan Tengah |
-| **4** | **Bp. H. Umar + Ibu Hj. Komariah** | 10 Bata | Kebon Gede |
-| **5** | **Bp. H. Abas + Ibu Hj. Cioh** | 20 Bata | Legok H. Mas'ud |
-| **6** | **Bp. H. Abas + Ibu Hj. Cioh** | 15 Bata | Kebon Gede |
-| **7** | **Bp. Eman bin Jai** | 10 Bata | Kebon Gede |
-| **8** | **Bp. H. Sirad** | 20 Bata | Kaler Sisi Lembur |
-| **9** | **Ibu Empat** | 10 Bata | Legok Icakan |
-| **10** | **Mama H. Maosul** | 15 Bata | Legok Icakan |
-| **11** | **Bp. Winarja + Ibu Arnasih** | 20 Bata | Kebon Gede |
-| **12** | **Bp. H. Ili Romli RJP** | 20 Bata | Cisurian Astana Palih Kulon |
-| **13** | **Bp. Suherman + Ibu Nani** | 10 Bata | Blok Heler |
+<img width="464" height="383" alt="download" src="https://github.com/user-attachments/assets/cdbd738f-ef96-421f-9ed5-0ea5de1c34a2" />
 
 > *Total keseluruhan tercatat **13 bidang tanah wakaf** dengan total luas **195 Bata** (dikecualikan kolom pengelola/pemegang dan rincian hasil panen untuk menjaga privasi dan fokus pada arsip aset).*
 
