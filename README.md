@@ -15,7 +15,7 @@ Selamat datang di portal resmi **Sistem Informasi Keuangan dan Aset Wakaf** **Ma
 ## 📜 Daftar Aset Tanah Wakaf Masjid 
 Berikut adalah rekapitulasi data tanah wakaf yang dikelola dan tercatat secara resmi oleh DKM Masjid Jamie Al-Istiqomah:
 
-![Daftar Aset Tanah Wakaf Masjid](aset-wakaf.png)
+<img src="aset-waqaf.png" alt="Daftar Aset Tanah Wakaf Masjid" style="max-width: 100%; height: auto;">
 
 > *Total keseluruhan tercatat **13 bidang tanah wakaf** dengan total luas **195 Bata** (dikecualikan kolom pengelola/pemegang dan rincian hasil panen untuk menjaga privasi dan fokus pada arsip aset).*
 
