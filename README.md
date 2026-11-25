@@ -17,7 +17,7 @@ Berikut adalah rekapitulasi data tanah wakaf yang dikelola dan tercatat secara r
 
 <img src="aset-wakaf.png" alt="Daftar Aset Tanah Wakaf Masjid" style="max-width: 100%; height: auto;">
 
-> *Total keseluruhan tercatat **13 bidang tanah wakaf** dengan total luas **195 Bata** (Total keseluruhan tercatat 13 bidang tanah wakaf dengan total luas 195 Bata. Adapun catatan pemasukan hasil wakaf dapat dilihat secara transparan pada menu Keuangan Wakaf di halaman portal web, sedangkan rincian teknis pengelolaan di lapangan tercatat pada pembukuan fisik dan dapat ditanyakan langsung kepada pengurus DKM.).*
+> *Total keseluruhan tercatat **13 bidang tanah wakaf** dengan total luas **195 Bata**. Adapun catatan pemasukan hasil wakaf dapat dilihat secara transparan pada menu Keuangan Wakaf di halaman portal web, sedangkan rincian teknis pengelolaan di lapangan tercatat pada pembukuan fisik dan dapat ditanyakan langsung kepada pengurus DKM.).*
 
 ---
 
