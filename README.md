@@ -22,10 +22,10 @@ Berikut adalah rekapitulasi data tanah wakaf yang dikelola dan tercatat secara r
 ---
 
 ## 📊 Cakupan Laporan Keuangan Portal
-Portal ini menyajikan tiga pilar pencatatan keuangan masjid secara terpisah agar mudah diaudit oleh jamaah:
+Portal ini menyajikan empat pilar pencatatan keuangan masjid secara terpisah agar mudah diaudit oleh jamaah:
 1. **🕌 Kas Jum'at:** Pencatatan infak kotak amal mingguan dan pengeluaran operasional rutin masjid.
 2. **📜 Keuangan Wakaf:** Pengelolaan dana hasil produktivitas aset wakaf maupun wakaf tunai.
-3. **🤲 Keuangan Kematian:** Pencatatan iuran dan santunan dana sosial kemasyarakatan/kematian warga.
+3. **🤲 Keuangan Kematian:** Pencatatan dana amanah atau sedekah sukarela dari keluarga duka, beserta rincian penggunaannya.
 4. **📘 Info & Aset Wakaf:** Pendataan inventaris bidang tanah wakaf masjid beserta informasi luas dan lokasinya.
 
 ---
