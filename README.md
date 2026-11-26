@@ -53,7 +53,7 @@ Kas-Masjid/
 ## 🤝 Layanan Informasi & Konfirmasi Jamaah
 Apabila terdapat kekeliruan penulisan nama wakif, luas tanah, lokasi, maupun pertanyaan terkait laporan keuangan, jamaah atau ahli waris dapat menghubungi pengurus **DKM Masjid Jamie Al-Istiqomah** secara langsung di sekretariat masjid.
 
-> *"Sesungguhnya yang memakmurkan masjid-masjid Allah hanyalah orang-orang yang beriman kepada Allah dan hari kemudian, serta tetap mendirikan shalat, menunaikan zakat dan tidak takut (kepada siapa pun) selain kepada Allah..."* **(QS. At-Taubah: 18)**
+> *"Sesungguhnya yang (pantas) memakmurkan masjid-masjid Allah hanyalah orang yang beriman kepada Allah dan hari Akhir, mendirikan salat, menunaikan zakat, serta tidak takut (kepada siapa pun) selain Allah. Mereka itulah yang diharapkan termasuk golongan orang-orang yang mendapat petunjuk."* **(QS. At-Taubah: 18)**
 
 ---
 *Dokumen digital ini dikelola secara resmi oleh Pengurus DKM Masjid Jamie Al-Istiqomah — Rajapolah, Tasikmalaya.*
