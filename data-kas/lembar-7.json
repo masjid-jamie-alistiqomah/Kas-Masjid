@@ -1,0 +1,278 @@
+{
+  "periode": "Lembar 7 (20 Juni – 21 Agustus 2025)",
+  "saldo_awal": 2688500,
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "20-06-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2648500
+    },
+    {
+      "no": "2.",
+      "tanggal": "20-06-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2608500
+    },
+    {
+      "no": "3.",
+      "tanggal": "27-06-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2568500
+    },
+    {
+      "no": "4.",
+      "tanggal": "27-06-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2528500
+    },
+    {
+      "no": "5.",
+      "tanggal": "27-06-2025",
+      "uraian": "Sabun colek 2 bungkus",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 2523500
+    },
+    {
+      "no": "6.",
+      "tanggal": "04-07-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2483500
+    },
+    {
+      "no": "7.",
+      "tanggal": "04-07-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2443500
+    },
+    {
+      "no": "8.",
+      "tanggal": "04-07-2025",
+      "uraian": "Lampu 5 W (Platinum)",
+      "masuk": 0,
+      "keluar": 13000,
+      "sisa": 2430500
+    },
+    {
+      "no": "9.",
+      "tanggal": "06-07-2025",
+      "uraian": "Kas Jumat",
+      "masuk": 845000,
+      "keluar": 0,
+      "sisa": 3275500
+    },
+    {
+      "no": "10.",
+      "tanggal": "09-07-2025",
+      "uraian": "Kunci pas 1 buah",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 3255500
+    },
+    {
+      "no": "11.",
+      "tanggal": "09-07-2025",
+      "uraian": "Roda pagar besi 2 buah",
+      "masuk": 0,
+      "keluar": 60000,
+      "sisa": 3195500
+    },
+    {
+      "no": "12.",
+      "tanggal": "09-07-2025",
+      "uraian": "Transportasi",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 3175500
+    },
+    {
+      "no": "13.",
+      "tanggal": "11-07-2025",
+      "uraian": "Khatib Jumat",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3135500
+    },
+    {
+      "no": "14.",
+      "tanggal": "11-07-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3095500
+    },
+    {
+      "no": "15.",
+      "tanggal": "11-07-2025",
+      "uraian": "Tipe-X Joyko kecil",
+      "masuk": 0,
+      "keluar": 3500,
+      "sisa": 3092000
+    },
+    {
+      "no": "16.",
+      "tanggal": "17-07-2025",
+      "uraian": "Amplop 3 pak / kardus",
+      "masuk": 0,
+      "keluar": 60000,
+      "sisa": 3032000
+    },
+    {
+      "no": "17.",
+      "tanggal": "17-07-2025",
+      "uraian": "Label 1 pak",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 3027000
+    },
+    {
+      "no": "18.",
+      "tanggal": "17-07-2025",
+      "uraian": "Sikat WC besar",
+      "masuk": 0,
+      "keluar": 10000,
+      "sisa": 3017000
+    },
+    {
+      "no": "19.",
+      "tanggal": "18-07-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2977000
+    },
+    {
+      "no": "20.",
+      "tanggal": "18-07-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2937000
+    },
+    {
+      "no": "21.",
+      "tanggal": "19-07-2025",
+      "uraian": "Rekening listrik",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2887000
+    },
+    {
+      "no": "22.",
+      "tanggal": "25-07-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2847000
+    },
+    {
+      "no": "23.",
+      "tanggal": "25-07-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2807000
+    },
+    {
+      "no": "24.",
+      "tanggal": "25-07-2025",
+      "uraian": "Kas Jumat",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 3307000
+    },
+    {
+      "no": "25.",
+      "tanggal": "01-08-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3267000
+    },
+    {
+      "no": "26.",
+      "tanggal": "01-08-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3227000
+    },
+    {
+      "no": "27.",
+      "tanggal": "06-08-2025",
+      "uraian": "Lampu Philips 19 watt",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 3147000
+    },
+    {
+      "no": "28.",
+      "tanggal": "08-08-2025",
+      "uraian": "Sabun colek 2 bungkus",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 3142000
+    },
+    {
+      "no": "29.",
+      "tanggal": "08-08-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3102000
+    },
+    {
+      "no": "30.",
+      "tanggal": "08-08-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3062000
+    },
+    {
+      "no": "31.",
+      "tanggal": "15-08-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3022000
+    },
+    {
+      "no": "32.",
+      "tanggal": "15-08-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2982000
+    },
+    {
+      "no": "33.",
+      "tanggal": "16-08-2025",
+      "uraian": "Kas Jumat",
+      "masuk": 445000,
+      "keluar": 0,
+      "sisa": 3427000
+    },
+    {
+      "no": "34.",
+      "tanggal": "21-08-2025",
+      "uraian": "Rekening listrik",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 3377000
+    }
+  ]
+}

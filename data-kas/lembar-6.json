@@ -1,0 +1,246 @@
+{
+  "periode": "Lembar 6 (02 Mei – 17 Juni 2025)",
+  "saldo_awal": 4234000,
+  "transaksi": [
+    {
+      "no": "2.",
+      "tanggal": "02-05-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 4194000
+    },
+    {
+      "no": "3.",
+      "tanggal": "02-05-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 4154000
+    },
+    {
+      "no": "4.",
+      "tanggal": "09-05-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 4114000
+    },
+    {
+      "no": "5.",
+      "tanggal": "09-05-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 4074000
+    },
+    {
+      "no": "6.",
+      "tanggal": "16-05-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 4034000
+    },
+    {
+      "no": "7.",
+      "tanggal": "16-05-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3994000
+    },
+    {
+      "no": "8.",
+      "tanggal": "16-05-2025",
+      "uraian": "1 buah lampu",
+      "masuk": 0,
+      "keluar": 18000,
+      "sisa": 3976000
+    },
+    {
+      "no": "9.",
+      "tanggal": "16-05-2025",
+      "uraian": "Teralis kamar paimaman 6 buah",
+      "masuk": 0,
+      "keluar": 1400000,
+      "sisa": 2576000
+    },
+    {
+      "no": "10.",
+      "tanggal": "17-05-2025",
+      "uraian": "Konsumsi pasang teralis",
+      "masuk": 0,
+      "keluar": 18000,
+      "sisa": 2558000
+    },
+    {
+      "no": "11.",
+      "tanggal": "20-05-2025",
+      "uraian": "3 buah lampu",
+      "masuk": 0,
+      "keluar": 43000,
+      "sisa": 2515000
+    },
+    {
+      "no": "12.",
+      "tanggal": "20-05-2025",
+      "uraian": "1 dus air cup",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 2495000
+    },
+    {
+      "no": "13.",
+      "tanggal": "20-05-2025",
+      "uraian": "Rekening listrik",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2445000
+    },
+    {
+      "no": "14.",
+      "tanggal": "23-05-2025",
+      "uraian": "Stopkontak tarik",
+      "masuk": 0,
+      "keluar": 17500,
+      "sisa": 2427500
+    },
+    {
+      "no": "15.",
+      "tanggal": "23-05-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2387500
+    },
+    {
+      "no": "16.",
+      "tanggal": "23-05-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2347500
+    },
+    {
+      "no": "17.",
+      "tanggal": "24-05-2025",
+      "uraian": "Infak jumatan",
+      "masuk": 584000,
+      "keluar": 0,
+      "sisa": 2931500
+    },
+    {
+      "no": "18.",
+      "tanggal": "30-05-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2891500
+    },
+    {
+      "no": "19.",
+      "tanggal": "30-05-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2851500
+    },
+    {
+      "no": "20.",
+      "tanggal": "01-06-2025",
+      "uraian": "Token listrik",
+      "masuk": 0,
+      "keluar": 53000,
+      "sisa": 2798500
+    },
+    {
+      "no": "21.",
+      "tanggal": "02-06-2025",
+      "uraian": "1 cat Falcon, 1 cat Avian, 1 tiner, 2 rol 1 meter ampelas",
+      "masuk": 0,
+      "keluar": 210000,
+      "sisa": 2588500
+    },
+    {
+      "no": "22.",
+      "tanggal": "04-06-2025",
+      "uraian": "Upah pengecatan",
+      "masuk": 0,
+      "keluar": 150000,
+      "sisa": 2438500
+    },
+    {
+      "no": "23.",
+      "tanggal": "06-06-2025",
+      "uraian": "Khatib Iduladha",
+      "masuk": 0,
+      "keluar": 100000,
+      "sisa": 2338500
+    },
+    {
+      "no": "24.",
+      "tanggal": "06-06-2025",
+      "uraian": "Imam Iduladha",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2288500
+    },
+    {
+      "no": "25.",
+      "tanggal": "06-06-2025",
+      "uraian": "Muraki Iduladha",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2238500
+    },
+    {
+      "no": "26.",
+      "tanggal": "06-06-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2188500
+    },
+    {
+      "no": "27.",
+      "tanggal": "06-06-2025",
+      "uraian": "Khatib Jumat",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2148500
+    },
+    {
+      "no": "28.",
+      "tanggal": "08-06-2025",
+      "uraian": "Iduladha + jumatan",
+      "masuk": 670000,
+      "keluar": 0,
+      "sisa": 2818500
+    },
+    {
+      "no": "29.",
+      "tanggal": "13-06-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2778500
+    },
+    {
+      "no": "30.",
+      "tanggal": "13-06-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2738500
+    },
+    {
+      "no": "31.",
+      "tanggal": "17-06-2025",
+      "uraian": "Rekening listrik",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2688500
+    }
+  ]
+}

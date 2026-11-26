@@ -1,0 +1,262 @@
+{
+  "periode": "Lembar 4 (08 November 2024 – 19 Januari 2025)",
+  "saldo_awal": 1242000,
+  "transaksi": [
+    {
+      "no": "2.",
+      "tanggal": "15-11-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1202000
+    },
+    {
+      "no": "3.",
+      "tanggal": "15-11-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1162000
+    },
+    {
+      "no": "4.",
+      "tanggal": "20-11-2024",
+      "uraian": "Jumatan",
+      "masuk": 440500,
+      "keluar": 0,
+      "sisa": 1602500
+    },
+    {
+      "no": "5.",
+      "tanggal": "22-11-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1562500
+    },
+    {
+      "no": "6.",
+      "tanggal": "22-11-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1522500
+    },
+    {
+      "no": "7.",
+      "tanggal": "29-11-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1482500
+    },
+    {
+      "no": "8.",
+      "tanggal": "29-11-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1442500
+    },
+    {
+      "no": "9.",
+      "tanggal": "06-12-2024",
+      "uraian": "Jumatan",
+      "masuk": 372000,
+      "keluar": 0,
+      "sisa": 1814500
+    },
+    {
+      "no": "10.",
+      "tanggal": "06-12-2024",
+      "uraian": "2 sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 1809500
+    },
+    {
+      "no": "11.",
+      "tanggal": "06-12-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1769500
+    },
+    {
+      "no": "12.",
+      "tanggal": "06-12-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1729500
+    },
+    {
+      "no": "13.",
+      "tanggal": "12-12-2024",
+      "uraian": "4 buah batu jam",
+      "masuk": 0,
+      "keluar": 12000,
+      "sisa": 1717500
+    },
+    {
+      "no": "14.",
+      "tanggal": "13-12-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1677500
+    },
+    {
+      "no": "15.",
+      "tanggal": "13-12-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1637500
+    },
+    {
+      "no": "16.",
+      "tanggal": "20-12-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1597500
+    },
+    {
+      "no": "17.",
+      "tanggal": "20-12-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1557500
+    },
+    {
+      "no": "18.",
+      "tanggal": "22-12-2024",
+      "uraian": "2 lap sapu pel",
+      "masuk": 0,
+      "keluar": 112000,
+      "sisa": 1445500
+    },
+    {
+      "no": "19.",
+      "tanggal": "27-12-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1405500
+    },
+    {
+      "no": "20.",
+      "tanggal": "27-12-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1365500
+    },
+    {
+      "no": "21.",
+      "tanggal": "31-12-2024",
+      "uraian": "Infak jumatan",
+      "masuk": 495000,
+      "keluar": 0,
+      "sisa": 1860500
+    },
+    {
+      "no": "22.",
+      "tanggal": "03-01-2025",
+      "uraian": "1 kaleng No Drop",
+      "masuk": 0,
+      "keluar": 60000,
+      "sisa": 1800500
+    },
+    {
+      "no": "23.",
+      "tanggal": "03-01-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1760500
+    },
+    {
+      "no": "24.",
+      "tanggal": "03-01-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1720500
+    },
+    {
+      "no": "25.",
+      "tanggal": "03-01-2025",
+      "uraian": "2 buah sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 1715500
+    },
+    {
+      "no": "26.",
+      "tanggal": "05-01-2025",
+      "uraian": "3 kaleng No Drop",
+      "masuk": 0,
+      "keluar": 165000,
+      "sisa": 1550500
+    },
+    {
+      "no": "27.",
+      "tanggal": "10-01-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1510500
+    },
+    {
+      "no": "28.",
+      "tanggal": "10-01-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1470500
+    },
+    {
+      "no": "29.",
+      "tanggal": "10-01-2025",
+      "uraian": "4 refill Kispray",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 1450500
+    },
+    {
+      "no": "30.",
+      "tanggal": "17-01-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1410500
+    },
+    {
+      "no": "31.",
+      "tanggal": "17-01-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1370500
+    },
+    {
+      "no": "32.",
+      "tanggal": "19-01-2025",
+      "uraian": "Infak jumatan",
+      "masuk": 478000,
+      "keluar": 0,
+      "sisa": 1848500
+    },
+    {
+      "no": "33.",
+      "tanggal": "19-01-2025",
+      "uraian": "2 kaleng No Drop",
+      "masuk": 0,
+      "keluar": 110000,
+      "sisa": 1738500
+    }
+  ]
+}

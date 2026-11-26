@@ -1,0 +1,270 @@
+{
+  "periode": "Lembar 3 (26 Agustus – 08 November 2024)",
+  "saldo_awal": 642100,
+  "transaksi": [
+    {
+      "no": "2.",
+      "tanggal": "26-08-2024",
+      "uraian": "Hasil jual rongsok",
+      "masuk": 81000,
+      "keluar": 0,
+      "sisa": 723100
+    },
+    {
+      "no": "3.",
+      "tanggal": "29-08-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 683100
+    },
+    {
+      "no": "4.",
+      "tanggal": "29-08-2024",
+      "uraian": "Petugas kebersihan 2 orang",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 643100
+    },
+    {
+      "no": "5.",
+      "tanggal": "02-09-2024",
+      "uraian": "1 buah lampu",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 623100
+    },
+    {
+      "no": "6.",
+      "tanggal": "06-09-2024",
+      "uraian": "Jumatan",
+      "masuk": 440500,
+      "keluar": 0,
+      "sisa": 1063600
+    },
+    {
+      "no": "7.",
+      "tanggal": "06-09-2024",
+      "uraian": "Petugas kebersihan 2 orang",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1023600
+    },
+    {
+      "no": "8.",
+      "tanggal": "06-09-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 983600
+    },
+    {
+      "no": "9.",
+      "tanggal": "13-09-2024",
+      "uraian": "Petugas kebersihan 2 orang",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 943600
+    },
+    {
+      "no": "10.",
+      "tanggal": "13-09-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 903600
+    },
+    {
+      "no": "11.",
+      "tanggal": "20-09-2024",
+      "uraian": "Petugas kebersihan 2 orang",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 863600
+    },
+    {
+      "no": "12.",
+      "tanggal": "20-09-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 823600
+    },
+    {
+      "no": "13.",
+      "tanggal": "25-09-2024",
+      "uraian": "Jumatan",
+      "masuk": 461000,
+      "keluar": 0,
+      "sisa": 1284600
+    },
+    {
+      "no": "14.",
+      "tanggal": "27-09-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1244600
+    },
+    {
+      "no": "15.",
+      "tanggal": "27-09-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1204600
+    },
+    {
+      "no": "16.",
+      "tanggal": "28-09-2024",
+      "uraian": "Obat rumput",
+      "masuk": 0,
+      "keluar": 37000,
+      "sisa": 1167600
+    },
+    {
+      "no": "17.",
+      "tanggal": "04-10-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1127600
+    },
+    {
+      "no": "18.",
+      "tanggal": "04-10-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1087600
+    },
+    {
+      "no": "19.",
+      "tanggal": "04-10-2024",
+      "uraian": "2 sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 1082600
+    },
+    {
+      "no": "20.",
+      "tanggal": "06-10-2024",
+      "uraian": "Lampu merkuri + upah",
+      "masuk": 0,
+      "keluar": 200000,
+      "sisa": 882600
+    },
+    {
+      "no": "21.",
+      "tanggal": "11-10-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 842600
+    },
+    {
+      "no": "22.",
+      "tanggal": "11-10-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 802600
+    },
+    {
+      "no": "23.",
+      "tanggal": "14-10-2024",
+      "uraian": "Jumatan",
+      "masuk": 404500,
+      "keluar": 0,
+      "sisa": 1207100
+    },
+    {
+      "no": "24.",
+      "tanggal": "18-10-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1167100
+    },
+    {
+      "no": "25.",
+      "tanggal": "18-10-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1127100
+    },
+    {
+      "no": "26.",
+      "tanggal": "18-10-2024",
+      "uraian": "2 buah lampu",
+      "masuk": 0,
+      "keluar": 32000,
+      "sisa": 1095100
+    },
+    {
+      "no": "27.",
+      "tanggal": "25-10-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1055100
+    },
+    {
+      "no": "28.",
+      "tanggal": "25-10-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1015100
+    },
+    {
+      "no": "29.",
+      "tanggal": "31-10-2024",
+      "uraian": "Jumatan",
+      "masuk": 391900,
+      "keluar": 0,
+      "sisa": 1407000
+    },
+    {
+      "no": "30.",
+      "tanggal": "01-11-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1367000
+    },
+    {
+      "no": "31.",
+      "tanggal": "01-11-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1327000
+    },
+    {
+      "no": "32.",
+      "tanggal": "08-11-2024",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1287000
+    },
+    {
+      "no": "33.",
+      "tanggal": "08-11-2024",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1247000
+    },
+    {
+      "no": "34.",
+      "tanggal": "08-11-2024",
+      "uraian": "2 sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 1242000
+    }
+  ]
+}

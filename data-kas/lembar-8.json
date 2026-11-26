@@ -1,0 +1,238 @@
+{
+  "periode": "Lembar 8 (22 Agustus – 19 Oktober 2025)",
+  "saldo_awal": 3377000,
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "22-08-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3337000
+    },
+    {
+      "no": "2.",
+      "tanggal": "22-08-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3297000
+    },
+    {
+      "no": "3.",
+      "tanggal": "29-08-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3257000
+    },
+    {
+      "no": "4.",
+      "tanggal": "29-08-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3217000
+    },
+    {
+      "no": "5.",
+      "tanggal": "05-09-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3177000
+    },
+    {
+      "no": "6.",
+      "tanggal": "05-09-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3137000
+    },
+    {
+      "no": "7.",
+      "tanggal": "08-09-2025",
+      "uraian": "Kas Jumat",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 3637000
+    },
+    {
+      "no": "8.",
+      "tanggal": "12-09-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3597000
+    },
+    {
+      "no": "9.",
+      "tanggal": "12-09-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3557000
+    },
+    {
+      "no": "10.",
+      "tanggal": "19-09-2025",
+      "uraian": "Karpet paimaman",
+      "masuk": 0,
+      "keluar": 330000,
+      "sisa": 3227000
+    },
+    {
+      "no": "11.",
+      "tanggal": "19-09-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3187000
+    },
+    {
+      "no": "12.",
+      "tanggal": "19-09-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3147000
+    },
+    {
+      "no": "13.",
+      "tanggal": "23-09-2025",
+      "uraian": "Rekening listrik",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 3097000
+    },
+    {
+      "no": "14.",
+      "tanggal": "25-09-2025",
+      "uraian": "Mik TOA",
+      "masuk": 0,
+      "keluar": 240000,
+      "sisa": 2857000
+    },
+    {
+      "no": "15.",
+      "tanggal": "25-09-2025",
+      "uraian": "Lampu ukuran 90 x 165 mm (yang besar)",
+      "masuk": 0,
+      "keluar": 35000,
+      "sisa": 2822000
+    },
+    {
+      "no": "16.",
+      "tanggal": "26-09-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2782000
+    },
+    {
+      "no": "17.",
+      "tanggal": "26-09-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2742000
+    },
+    {
+      "no": "18.",
+      "tanggal": "30-09-2025",
+      "uraian": "Kas masjid",
+      "masuk": 460000,
+      "keluar": 0,
+      "sisa": 3202000
+    },
+    {
+      "no": "19.",
+      "tanggal": "03-10-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3162000
+    },
+    {
+      "no": "20.",
+      "tanggal": "03-10-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3122000
+    },
+    {
+      "no": "21.",
+      "tanggal": "03-10-2025",
+      "uraian": "Sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 3117000
+    },
+    {
+      "no": "22.",
+      "tanggal": "05-10-2025",
+      "uraian": "Kunci pintu depan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3077000
+    },
+    {
+      "no": "23.",
+      "tanggal": "05-10-2025",
+      "uraian": "Transportasi + pemasangan",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 3057000
+    },
+    {
+      "no": "24.",
+      "tanggal": "10-10-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 3017000
+    },
+    {
+      "no": "25.",
+      "tanggal": "10-10-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2977000
+    },
+    {
+      "no": "26.",
+      "tanggal": "17-10-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2937000
+    },
+    {
+      "no": "27.",
+      "tanggal": "17-10-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2897000
+    },
+    {
+      "no": "28.",
+      "tanggal": "19-10-2025",
+      "uraian": "Rekening listrik",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2847000
+    },
+    {
+      "no": "29.",
+      "tanggal": "19-10-2025",
+      "uraian": "Kas masjid",
+      "masuk": 410000,
+      "keluar": 0,
+      "sisa": 3257000
+    }
+  ]
+}

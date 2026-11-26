@@ -1,0 +1,318 @@
+{
+  "periode": "Lembar 10 (19 Desember 2025 – 13 Februari 2026)",
+  "saldo_awal": 2258000,
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "19-12-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2218000
+    },
+    {
+      "no": "2.",
+      "tanggal": "20-12-2025",
+      "uraian": "Rekening listrik m. bawah.",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2168000
+    },
+    {
+      "no": "3.",
+      "tanggal": "26-12-2025",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2128000
+    },
+    {
+      "no": "4.",
+      "tanggal": "26-12-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 2088000
+    },
+    {
+      "no": "5.",
+      "tanggal": "26-12-2025",
+      "uraian": "Dispenser Miyako",
+      "masuk": 0,
+      "keluar": 190000,
+      "sisa": 1898000
+    },
+    {
+      "no": "6.",
+      "tanggal": "26-12-2025",
+      "uraian": "Gelas plastik 1 lusin",
+      "masuk": 0,
+      "keluar": 35000,
+      "sisa": 1863000
+    },
+    {
+      "no": "7.",
+      "tanggal": "26-12-2025",
+      "uraian": "Kabel 2 x 1,5 (8 meter)",
+      "masuk": 0,
+      "keluar": 52000,
+      "sisa": 1811000
+    },
+    {
+      "no": "8.",
+      "tanggal": "26-12-2025",
+      "uraian": "Terminal 2 lubang 2 buah",
+      "masuk": 0,
+      "keluar": 27000,
+      "sisa": 1784000
+    },
+    {
+      "no": "9.",
+      "tanggal": "26-12-2025",
+      "uraian": "Klem beton 1 bungkus",
+      "masuk": 0,
+      "keluar": 7500,
+      "sisa": 1776500
+    },
+    {
+      "no": "10.",
+      "tanggal": "26-12-2025",
+      "uraian": "Bendera masjid 2 buah",
+      "masuk": 0,
+      "keluar": 30000,
+      "sisa": 1746500
+    },
+    {
+      "no": "11.",
+      "tanggal": "26-12-2025",
+      "uraian": "Transportasi",
+      "masuk": 0,
+      "keluar": 15000,
+      "sisa": 1731500
+    },
+    {
+      "no": "12.",
+      "tanggal": "29-12-2025",
+      "uraian": "Baterai ABC jam (4 buah)",
+      "masuk": 0,
+      "keluar": 12000,
+      "sisa": 1719500
+    },
+    {
+      "no": "13.",
+      "tanggal": "29-12-2025",
+      "uraian": "Kas Jumat",
+      "masuk": 610000,
+      "keluar": 0,
+      "sisa": 2329500
+    },
+    {
+      "no": "14.",
+      "tanggal": "31-12-2025",
+      "uraian": "Biaya menutup tangga",
+      "masuk": 0,
+      "keluar": 772500,
+      "sisa": 1558000
+    },
+    {
+      "no": "15.",
+      "tanggal": "31-12-2025",
+      "uraian": "Kalender",
+      "masuk": 0,
+      "keluar": 25000,
+      "sisa": 1533000
+    },
+    {
+      "no": "16.",
+      "tanggal": "01-01-2026",
+      "uraian": "Lemari dispenser",
+      "masuk": 0,
+      "keluar": 100000,
+      "sisa": 1433000
+    },
+    {
+      "no": "17.",
+      "tanggal": "01-01-2026",
+      "uraian": "Cemped 4 buah",
+      "masuk": 0,
+      "keluar": 20000,
+      "sisa": 1413000
+    },
+    {
+      "no": "18.",
+      "tanggal": "02-01-2026",
+      "uraian": "Keset karet 2 buah",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 1333000
+    },
+    {
+      "no": "19.",
+      "tanggal": "02-01-2026",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1293000
+    },
+    {
+      "no": "20.",
+      "tanggal": "02-01-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1253000
+    },
+    {
+      "no": "21.",
+      "tanggal": "09-01-2026",
+      "uraian": "Sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 1248000
+    },
+    {
+      "no": "22.",
+      "tanggal": "09-01-2026",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1208000
+    },
+    {
+      "no": "23.",
+      "tanggal": "09-01-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1168000
+    },
+    {
+      "no": "24.",
+      "tanggal": "16-01-2026",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1128000
+    },
+    {
+      "no": "25.",
+      "tanggal": "16-01-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1088000
+    },
+    {
+      "no": "26.",
+      "tanggal": "19-01-2026",
+      "uraian": "Kas Jumat",
+      "masuk": 585000,
+      "keluar": 0,
+      "sisa": 1673000
+    },
+    {
+      "no": "27.",
+      "tanggal": "19-01-2026",
+      "uraian": "Air cup",
+      "masuk": 0,
+      "keluar": 34000,
+      "sisa": 1639000
+    },
+    {
+      "no": "28.",
+      "tanggal": "19-01-2026",
+      "uraian": "Rekening listrik",
+      "masuk": 0,
+      "keluar": 54000,
+      "sisa": 1585000
+    },
+    {
+      "no": "29.",
+      "tanggal": "19-01-2026",
+      "uraian": "Konsumsi pengajian FSPP",
+      "masuk": 0,
+      "keluar": 400000,
+      "sisa": 1185000
+    },
+    {
+      "no": "30.",
+      "tanggal": "21-01-2026",
+      "uraian": "Pengajian FSPP",
+      "masuk": 0,
+      "keluar": 250000,
+      "sisa": 935000
+    },
+    {
+      "no": "31.",
+      "tanggal": "23-01-2026",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 895000
+    },
+    {
+      "no": "32.",
+      "tanggal": "23-01-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 855000
+    },
+    {
+      "no": "33.",
+      "tanggal": "30-01-2026",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 815000
+    },
+    {
+      "no": "34.",
+      "tanggal": "30-01-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 775000
+    },
+    {
+      "no": "35.",
+      "tanggal": "06-02-2026",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 735000
+    },
+    {
+      "no": "36.",
+      "tanggal": "06-02-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 695000
+    },
+    {
+      "no": "37.",
+      "tanggal": "12-02-2026",
+      "uraian": "Kas Jumat",
+      "masuk": 520000,
+      "keluar": 0,
+      "sisa": 1215000
+    },
+    {
+      "no": "38.",
+      "tanggal": "13-02-2026",
+      "uraian": "Khatib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1175000
+    },
+    {
+      "no": "39.",
+      "tanggal": "13-02-2026",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1135000
+    }
+  ]
+}
