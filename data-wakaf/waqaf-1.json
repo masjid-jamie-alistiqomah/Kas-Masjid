@@ -1,0 +1,295 @@
+{
+  "judul": "Data Keuangan Wakaf Masjid Jamie Al-Istiqomah",
+  "periode": "18 April 2024 – 06 April 2026",
+  "saldo_awal": 0,
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "18-04-2024",
+      "uraian": "Suuk ti A. Nanang 3 kg Hasil wakaf dari Sukarindik (Bp. H. Ili Romli)",
+      "masuk": 40000,
+      "keluar": 0,
+      "sisa": 40000
+    },
+    {
+      "no": "2.",
+      "tanggal": "26-08-2024",
+      "uraian": "40 kg x 8.000 wakaf anu dicepeng ku Bp. Nunus",
+      "masuk": 320000,
+      "keluar": 0,
+      "sisa": 360000
+    },
+    {
+      "no": "3.",
+      "tanggal": "28-08-2024",
+      "uraian": "Wakaf H. Sirod (39 x 8.000)",
+      "masuk": 312000,
+      "keluar": 0,
+      "sisa": 672000
+    },
+    {
+      "no": "4.",
+      "tanggal": "28-08-2024",
+      "uraian": "Anu manggulan ngical pare (Bp. Endang Jalal)",
+      "masuk": 0,
+      "keluar": 25000,
+      "sisa": 647000
+    },
+    {
+      "no": "5.",
+      "tanggal": "29-08-2024",
+      "uraian": "Terminal + kabel",
+      "masuk": 0,
+      "keluar": 45000,
+      "sisa": 602000
+    },
+    {
+      "no": "6.",
+      "tanggal": "07-09-2024",
+      "uraian": "Wakaf Ma Empat 16 kg + wakaf Mama Udin 23 kg (Jml. = 39 kg x 7.900)",
+      "masuk": 308100,
+      "keluar": 0,
+      "sisa": 910100
+    },
+    {
+      "no": "7.",
+      "tanggal": "07-09-2024",
+      "uraian": "Anu manggulan (Bi Hanah)",
+      "masuk": 0,
+      "keluar": 25000,
+      "sisa": 885100
+    },
+    {
+      "no": "8.",
+      "tanggal": "15-10-2024",
+      "uraian": "Wakaf Aki Winarta 19 kg x 7.500",
+      "masuk": 142500,
+      "keluar": 0,
+      "sisa": 1027100
+    },
+    {
+      "no": "9.",
+      "tanggal": "17-02-2025",
+      "uraian": "Wakaf Bp. Suherman 15 kg x 7.800",
+      "masuk": 121000,
+      "keluar": 0,
+      "sisa": 1148100
+    },
+    {
+      "no": "10.",
+      "tanggal": "17-02-2025",
+      "uraian": "Bp. Solihin",
+      "masuk": 70000,
+      "keluar": 0,
+      "sisa": 1218100
+    },
+    {
+      "no": "11.",
+      "tanggal": "24-02-2025",
+      "uraian": "Stempel Kuliah Subuh",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1178100
+    },
+    {
+      "no": "12.",
+      "tanggal": "01-03-2025",
+      "uraian": "Nambihan penceramah Kuliah Ramadan",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 1128100
+    },
+    {
+      "no": "13.",
+      "tanggal": "28-03-2025",
+      "uraian": "Ti Bp. Enur (Hj. Sirod)",
+      "masuk": 70000,
+      "keluar": 0,
+      "sisa": 1198000
+    },
+    {
+      "no": "14.",
+      "tanggal": "29-03-2025",
+      "uraian": "6 orang imam tarawih",
+      "masuk": 0,
+      "keluar": 600000,
+      "sisa": 598000
+    },
+    {
+      "no": "15.",
+      "tanggal": "10-05-2025",
+      "uraian": "Hui wakaf Sukarindik",
+      "masuk": 50000,
+      "keluar": 0,
+      "sisa": 648000
+    },
+    {
+      "no": "16.",
+      "tanggal": "19-09-2025",
+      "uraian": "Wakaf",
+      "masuk": 1076000,
+      "keluar": 0,
+      "sisa": 1724000
+    },
+    {
+      "no": "17.",
+      "tanggal": "04-01-2026",
+      "uraian": "Wakaf (Bi Toto 69 gang Bangkit)",
+      "masuk": 265000,
+      "keluar": 0,
+      "sisa": 1989000
+    },
+    {
+      "no": "18.",
+      "tanggal": "17-11-2025",
+      "uraian": "Bp. Yunus / Suherman",
+      "masuk": 50000,
+      "keluar": 0,
+      "sisa": 2039000
+    },
+    {
+      "no": "19.",
+      "tanggal": "12-12-2025",
+      "uraian": "Bi Enur / H. Sirod",
+      "masuk": 250000,
+      "keluar": 0,
+      "sisa": 2289000
+    },
+    {
+      "no": "20.",
+      "tanggal": "12-12-2025",
+      "uraian": "Bp. Idir / H. Toyo",
+      "masuk": 544000,
+      "keluar": 0,
+      "sisa": 2833000
+    },
+    {
+      "no": "21.",
+      "tanggal": "12-12-2025",
+      "uraian": "Bi Hanah",
+      "masuk": 176000,
+      "keluar": 0,
+      "sisa": 3009000
+    },
+    {
+      "no": "22.",
+      "tanggal": "21-12-2025",
+      "uraian": "Hj. Endah",
+      "masuk": 213000,
+      "keluar": 0,
+      "sisa": 3222000
+    },
+    {
+      "no": "23.",
+      "tanggal": "08-01-2026",
+      "uraian": "Jual pare wakaf",
+      "masuk": 268000,
+      "keluar": 0,
+      "sisa": 3490000
+    },
+    {
+      "no": "24.",
+      "tanggal": "010-01-2026",
+      "uraian": "Tihang reregan 14 m",
+      "masuk": 0,
+      "keluar": 350000,
+      "sisa": 3140000
+    },
+    {
+      "no": "25.",
+      "tanggal": "11-01-2026",
+      "uraian": "Hordeng",
+      "masuk": 0,
+      "keluar": 508000,
+      "sisa": 2632000
+    },
+    {
+      "no": "26.",
+      "tanggal": "11-01-2026",
+      "uraian": "Pemasangan Hordeng",
+      "masuk": 0,
+      "keluar": 50000,
+      "sisa": 2582000
+    },
+    {
+      "no": "27.",
+      "tanggal": "20-01-2026",
+      "uraian": "Konsumsi pengajian FSPP",
+      "masuk": 0,
+      "keluar": 325500,
+      "sisa": 2256500
+    },
+    {
+      "no": "28.",
+      "tanggal": "14-02-2026",
+      "uraian": "Kipas dan hordeng",
+      "masuk": 0,
+      "keluar": 377000,
+      "sisa": 1879500
+    },
+    {
+      "no": "29.",
+      "tanggal": "17-02-2026",
+      "uraian": "2 kilo dodol (takjil)",
+      "masuk": 0,
+      "keluar": 60000,
+      "sisa": 1819500
+    },
+    {
+      "no": "30.",
+      "tanggal": "18-02-2026",
+      "uraian": "Amplop penceramah (Kulsub)",
+      "masuk": 0,
+      "keluar": 150000,
+      "sisa": 1669500
+    },
+    {
+      "no": "31.",
+      "tanggal": "25-02-2026",
+      "uraian": "Wakaf Cisurian",
+      "masuk": 269000,
+      "keluar": 0,
+      "sisa": 1938500
+    },
+    {
+      "no": "32.",
+      "tanggal": "16-03-2026",
+      "uraian": "THR imam + muazin",
+      "masuk": 0,
+      "keluar": 1300000,
+      "sisa": 638500
+    },
+    {
+      "no": "33.",
+      "tanggal": "18-03-2026",
+      "uraian": "5 Wadimor",
+      "masuk": 0,
+      "keluar": 325000,
+      "sisa": 313500
+    },
+    {
+      "no": "34.",
+      "tanggal": "18-03-2026",
+      "uraian": "Cat Yoko + cat Avian",
+      "masuk": 0,
+      "keluar": 214000,
+      "sisa": 99500
+    },
+    {
+      "no": "35.",
+      "tanggal": "06-04-2026",
+      "uraian": "Wakaf Bp. Solihin (ti Ma Eput)",
+      "masuk": 242000,
+      "keluar": 0,
+      "sisa": 341000
+    },
+    {
+      "no": "36.",
+      "tanggal": "06-04-2026",
+      "uraian": "Wakaf Bp. H. Sirod (ti Ma Enur)",
+      "masuk": 270000,
+      "keluar": 0,
+      "sisa": 611000
+    }
+  ]
+}

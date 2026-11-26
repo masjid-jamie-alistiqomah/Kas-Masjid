@@ -1,0 +1,175 @@
+{
+  "periode": "Lembar 2 (14 April – 21 November 2026)",
+  "saldo_awal": 611000,
+  "keterangan": "Data Keuangan Wakaf Masjid Jami Al-Istiqomah (Sisa yang Lalu: 611.000)",
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "14-04-2026",
+      "uraian": "Wakaf Bpk. Suherman",
+      "masuk": 168000,
+      "keluar": 0,
+      "sisa": 779000
+    },
+    {
+      "no": "2.",
+      "tanggal": "17-04-2026",
+      "uraian": "Wakaf Bpk. H. Mausul",
+      "masuk": 184000,
+      "keluar": 0,
+      "sisa": 963000
+    },
+    {
+      "no": "3.",
+      "tanggal": "02-05-2026",
+      "uraian": "Wakaf Hj. Toto",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 1463000
+    },
+    {
+      "no": "4.",
+      "tanggal": "09-05-2026",
+      "uraian": "Wakaf Ma Empat",
+      "masuk": 200000,
+      "keluar": 0,
+      "sisa": 1663000
+    },
+    {
+      "no": "5.",
+      "tanggal": "09-05-2026",
+      "uraian": "Wakaf Bpk. Winarja",
+      "masuk": 227000,
+      "keluar": 0,
+      "sisa": 1890000
+    },
+    {
+      "no": "6.",
+      "tanggal": "09-05-2026",
+      "uraian": "Wakaf Ma Uka/3 usum",
+      "masuk": 747000,
+      "keluar": 0,
+      "sisa": 2637000
+    },
+    {
+      "no": "7.",
+      "tanggal": "25-05-2026",
+      "uraian": "Insentif imam/pengurus masjid 4 orang",
+      "masuk": 0,
+      "keluar": 400000,
+      "sisa": 2237000
+    },
+    {
+      "no": "8.",
+      "tanggal": "30-05-2026",
+      "uraian": "Wakaf Bpk. H. Abbas + Hj. Cioh",
+      "masuk": 400000,
+      "keluar": 0,
+      "sisa": 2637000
+    },
+    {
+      "no": "9.",
+      "tanggal": "27-07-2026",
+      "uraian": "Wakaf H. Ili (Cisurian)",
+      "masuk": 320000,
+      "keluar": 0,
+      "sisa": 2957000
+    },
+    {
+      "no": "10.",
+      "tanggal": "27-07-2026",
+      "uraian": "Wakaf Bpk. Suherman",
+      "masuk": 238000,
+      "keluar": 0,
+      "sisa": 3195000
+    },
+    {
+      "no": "11.",
+      "tanggal": "11-08-2026",
+      "uraian": "Wakaf Bpk. Solihin",
+      "masuk": 289000,
+      "keluar": 0,
+      "sisa": 3484000
+    },
+    {
+      "no": "12.",
+      "tanggal": "24-08-2026",
+      "uraian": "2 buah lampu 21 watt",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 3404000
+    },
+    {
+      "no": "13.",
+      "tanggal": "24-08-2026",
+      "uraian": "2 buah isi ulang Stella",
+      "masuk": 0,
+      "keluar": 68000,
+      "sisa": 3336000
+    },
+    {
+      "no": "14.",
+      "tanggal": "18-09-2026",
+      "uraian": "Token listrik bawah",
+      "masuk": 0,
+      "keluar": 105000,
+      "sisa": 3231000
+    },
+    {
+      "no": "15.",
+      "tanggal": "25-09-2026",
+      "uraian": "Wakaf H. Abbas (Legok)",
+      "masuk": 400000,
+      "keluar": 0,
+      "sisa": 3631000
+    },
+    {
+      "no": "16.",
+      "tanggal": "28-09-2026",
+      "uraian": "Insentif muazin, muraqi, petugas kencleng Jumat",
+      "masuk": 0,
+      "keluar": 300000,
+      "sisa": 3331000
+    },
+    {
+      "no": "17.",
+      "tanggal": "11-10-2026",
+      "uraian": "Parfum karpet",
+      "masuk": 0,
+      "keluar": 48000,
+      "sisa": 3283000
+    },
+    {
+      "no": "18.",
+      "tanggal": "13-10-2026",
+      "uraian": "Bantal kursi khatib",
+      "masuk": 0,
+      "keluar": 80000,
+      "sisa": 3203000
+    },
+    {
+      "no": "19.",
+      "tanggal": "29-10-2026",
+      "uraian": "3 buah lampu 18 watt",
+      "masuk": 0,
+      "keluar": 110000,
+      "sisa": 3093000
+    },
+    {
+      "no": "20.",
+      "tanggal": "30-10-2026",
+      "uraian": "1 buah kalender",
+      "masuk": 0,
+      "keluar": 22000,
+      "sisa": 3071000
+    },
+    {
+      "no": "21.",
+      "tanggal": "21-11-2026",
+      "uraian": "4 gorden masjid",
+      "masuk": 0,
+      "keluar": 168000,
+      "sisa": 2903000
+    }
+  ]
+}
