@@ -1021,7 +1021,7 @@
         const judulLaporan = document.getElementById("judulPeriode")?.textContent || "Laporan Keuangan Masjid";
         const urlHalaman = window.location.href;
         
-        const pesan = `Assalamu'alaikum Warahmatullahi Wabarakatuh.\n\nBerikut kami sampaikan informasi transparansi *${judulLaporan}* DKM Masjid Jamie Al-Istiqomah (Kp. Karangiyuh, Rajapolah).\n\nSilakan lihat rincian selengkapnya melalui tautan berikut:\n${urlHalaman}`;
+        const pesan = `Assalamu'alaikum Warahmatullahi Wabarakatuh.\n\n*Portal Transparansi Keuangan Masjid*\nDKM Masjid Jamie Al-Istiqomah (Kp. Karangiyuh, Rajapolah)\n\nLihat informasi dan rincian selengkapnya melalui tautan berikut:\n${urlHalaman}`;
         
         const urlWA = `https://wa.me?text=${encodeURIComponent(pesan)}`;
         window.open(urlWA, '_blank');
