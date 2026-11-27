@@ -227,20 +227,22 @@
             transform: translateY(1px);
         }
 
-        /* Tombol Excel: Putih-Emerald Mewah berbingkai Emas */
-        .btn-csv {
-            background: linear-gradient(180deg, #ffffff 0%, #eaf5ef 100%);
-            color: var(--primary-dark);
-            border-color: var(--primary);
-            box-shadow: 0 2px 6px rgba(15, 81, 50, 0.12), inset 0 1px 0 #ffffff, inset 0 -2px 0 rgba(212, 175, 55, 0.45);
-        }
+/* Tombol WA */
+.btn-wa {
+    background: linear-gradient(180deg, #25d366 0%, #1da851 100%);
+    color: #ffffff;
+    border-color: #128c7e;
+    box-shadow: 0 2px 6px rgba(37, 211, 102, 0.28), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
 
-        .btn-csv:hover {
-            background: linear-gradient(180deg, #f3faf6 0%, #dcf0e5 100%);
-            border-color: var(--accent);
-            box-shadow: 0 4px 10px rgba(15, 81, 50, 0.18);
-            transform: translateY(-1px);
-        }
+.btn-wa:hover {
+    background: linear-gradient(180deg, #2be06f 0%, #20bd5a 100%);
+    border-color: #0e7367;
+    box-shadow: 0 4px 10px rgba(37, 211, 102, 0.38);
+    transform: translateY(-1px);
+}
+
 
         /* Tombol Cetak / PDF: Hijau Kop Masjid berbingkai Emas Timbul */
         .btn-print {
@@ -658,9 +660,11 @@
                 <select id="pilihLembar" onchange="gantiLembar()"></select>
             </div>
             <div class="btn-group">
-                <button class="btn-csv" onclick="downloadCSV()">
-                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-                    <span>Excel (CSV)</span>
+                <button class="btn-wa" onclick="bagikanWhatsApp()">
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.006c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.86s.274.072.376-.043c.101-.116.433-.506.549-.68.116-.173.231-.145.39-.087s1.011.477 1.184.564.289.13.332.202c.045.072.045.419-.1.824zm-3.423-14.416c-6.627 0-12 5.373-12 12 0 2.115.553 4.102 1.523 5.834l-1.624 5.928 6.077-1.595c1.685.918 3.611 1.444 5.673 1.444 6.627 0 12-5.373 12-12 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                    <span>Bagikan ke WA</span>
                 </button>
                 <button class="btn-print" onclick="window.print()">
                     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#f3e5ab" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
@@ -1017,42 +1021,14 @@
         });
     }
 
-    function downloadCSV() {
-        if (!dataAktif) return;
-
-        const namaLaporan = tabAktif === 'wakaf' ? 'KEUANGAN WAKAF' : (tabAktif === 'kematian' ? 'KEUANGAN KEMATIAN' : 'KAS JUMAT');
-        let csv = [];
-        csv.push(`"LAPORAN ${namaLaporan} - DKM MASJID JAMIE AL-ISTIQOMAH"`);
-        csv.push('"Kp. Karangiyuh, Jl. Cisurian-Cihateup, Desa Rajamandala, Rajapolah, Tasikmalaya"');
-        csv.push('"Periode: ' + (dataAktif.periode || '-') + '"');
-        csv.push('"Saldo Awal: ' + (dataAktif.saldo_awal || 0) + '"');
-        csv.push('');
-        csv.push('"NO","TGL-BLN-THN","URAIAN","MASUK","KELUAR","SISA SALDO"');
-
-        let saldo = dataAktif.saldo_awal || 0;
-        let totMasuk = 0;
-        let totKeluar = 0;
-
-        dataAktif.transaksi.forEach((r) => {
-            const m = Number(r.masuk) || 0;
-            const k = Number(r.keluar) || 0;
-            saldo = saldo + m - k;
-            totMasuk += m;
-            totKeluar += k;
-            csv.push(`"${r.no || ""}","${r.tanggal || ""}","${r.uraian || ""}",${m},${k},${saldo}`);
-        });
-
-        csv.push(`"","","TOTAL",${totMasuk},${totKeluar},${saldo}`);
-
-        const cleanId = String(dataAktif.id || "laporan").replace(/\.json$/i, "");
-        const blob = new Blob([csv.join("\n")], { type: "text/csv;charset=utf-8;" });
-        const link = document.createElement("a");
-        const url = URL.createObjectURL(blob);
-        link.setAttribute("href", url);
-        link.setAttribute("download", `${namaLaporan.replace(/\s+/g, '_')}_Al_Istiqomah_${cleanId}.csv`);
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
+    function bagikanWhatsApp() {
+        const judulLaporan = document.getElementById("judulPeriode")?.textContent || "Laporan Keuangan Masjid";
+        const urlHalaman = window.location.href;
+        
+        const pesan = `Assalamu'alaikum Warahmatullahi Wabarakatuh.\n\nBerikut kami sampaikan informasi transparansi *${judulLaporan}* DKM Masjid Jamie Al-Istiqomah (Kp. Karangiyuh, Rajapolah).\n\nSilakan lihat rincian selengkapnya melalui tautan berikut:\n${urlHalaman}`;
+        
+        const urlWA = `https://wa.me?text=${encodeURIComponent(pesan)}`;
+        window.open(urlWA, '_blank');
     }
 
     window.onload = muatDataJSON;
