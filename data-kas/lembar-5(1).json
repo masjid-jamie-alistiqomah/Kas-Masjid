@@ -1,0 +1,246 @@
+{
+  "periode": "Lembar 5 (24 Januari – 22 Maret 2025)",
+  "saldo_awal": 1738500,
+  "transaksi": [
+    {
+      "no": "1.",
+      "tanggal": "24-01-2025",
+      "uraian": "Sisa yang lalu",
+      "masuk": 1738500,
+      "keluar": 0,
+      "sisa": 1738500
+    },
+    {
+      "no": "2.",
+      "tanggal": "24-01-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1698500
+    },
+    {
+      "no": "3.",
+      "tanggal": "24-01-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1658500
+    },
+    {
+      "no": "4.",
+      "tanggal": "31-01-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1628500
+    },
+    {
+      "no": "5.",
+      "tanggal": "31-01-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1588500
+    },
+    {
+      "no": "6.",
+      "tanggal": "07-02-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1548500
+    },
+    {
+      "no": "7.",
+      "tanggal": "07-02-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1508500
+    },
+    {
+      "no": "8.",
+      "tanggal": "07-02-2025",
+      "uraian": "2 sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 1503500
+    },
+    {
+      "no": "9.",
+      "tanggal": "12-02-2025",
+      "uraian": "Infaq jum'atan",
+      "masuk": 500000,
+      "keluar": 0,
+      "sisa": 2003500
+    },
+    {
+      "no": "10.",
+      "tanggal": "14-02-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1963500
+    },
+    {
+      "no": "11.",
+      "tanggal": "14-02-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1923500
+    },
+    {
+      "no": "12.",
+      "tanggal": "20-02-2025",
+      "uraian": "Konsumsi musyawarah kuliah subuh",
+      "masuk": 0,
+      "keluar": 45000,
+      "sisa": 1878500
+    },
+    {
+      "no": "13.",
+      "tanggal": "21-02-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1838500
+    },
+    {
+      "no": "14.",
+      "tanggal": "21-02-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1798500
+    },
+    {
+      "no": "15.",
+      "tanggal": "27-02-2025",
+      "uraian": "3 kaleng nodrop + konsumsi anu ngacet",
+      "masuk": 0,
+      "keluar": 204000,
+      "sisa": 1594500
+    },
+    {
+      "no": "16.",
+      "tanggal": "28-02-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1554000
+    },
+    {
+      "no": "17.",
+      "tanggal": "28-02-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1514000
+    },
+    {
+      "no": "18.",
+      "tanggal": "01-03-2025",
+      "uraian": "Biaya kuliah subuh",
+      "masuk": 0,
+      "keluar": 195000,
+      "sisa": 1319000
+    },
+    {
+      "no": "19.",
+      "tanggal": "02-03-2025",
+      "uraian": "Infaq jum'atan",
+      "masuk": 691000,
+      "keluar": 0,
+      "sisa": 2010000
+    },
+    {
+      "no": "20.",
+      "tanggal": "07-03-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1970000
+    },
+    {
+      "no": "21.",
+      "tanggal": "07-03-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1930000
+    },
+    {
+      "no": "22.",
+      "tanggal": "10-03-2025",
+      "uraian": "2 buah samak plastik",
+      "masuk": 0,
+      "keluar": 240000,
+      "sisa": 1690000
+    },
+    {
+      "no": "26.",
+      "tanggal": "14-03-2025",
+      "uraian": "Infaq hamba Alloh",
+      "masuk": 150000,
+      "keluar": 0,
+      "sisa": 1840000
+    },
+    {
+      "no": "27.",
+      "tanggal": "14-03-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1800000
+    },
+    {
+      "no": "28.",
+      "tanggal": "14-03-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1760000
+    },
+    {
+      "no": "29.",
+      "tanggal": "14-03-2025",
+      "uraian": "2 sabun colek",
+      "masuk": 0,
+      "keluar": 5000,
+      "sisa": 1755000
+    },
+    {
+      "no": "30.",
+      "tanggal": "17-03-2025",
+      "uraian": "Konsumsi tarling",
+      "masuk": 0,
+      "keluar": 66000,
+      "sisa": 1689000
+    },
+    {
+      "no": "31.",
+      "tanggal": "21-03-2025",
+      "uraian": "Khotib",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1649000
+    },
+    {
+      "no": "32.",
+      "tanggal": "21-03-2025",
+      "uraian": "Petugas kebersihan",
+      "masuk": 0,
+      "keluar": 40000,
+      "sisa": 1609000
+    },
+    {
+      "no": "33.",
+      "tanggal": "22-03-2025",
+      "uraian": "Infaq jum'atan",
+      "masuk": 641000,
+      "keluar": 0,
+      "sisa": 2250000
+    }
+  ]
+}
